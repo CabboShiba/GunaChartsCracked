@@ -7,7 +7,7 @@ Please if you want to share it, be sure to give credits to me. This is really im
 
 # How to use it
 
-Please download (GunaChartsPatcher)[https://github.com/CabboLeak/GunaChartsCracked/blob/main/GunaChartsPatcher.exe], put the file in the same folder as "packages" folder, and run the program.
+Please download [GunaChartsPatcher](https://github.com/CabboLeak/GunaChartsCracked/blob/main/GunaChartsPatcher.exe), put the file in the same folder as "packages" folder, and run the program.
 
 You should see something like this:
 
